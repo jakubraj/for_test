@@ -5,7 +5,7 @@ How to pull and push to GitHub
 
 How to clone repository
 - git clone URL_REPOSITORY 
-    URL can be found on you www.github.com repository in section 
+   - URL can be found on you www.github.com repository in section 
         - repositories
             - name of the repository
                 - <>Code
