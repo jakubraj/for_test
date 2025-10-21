@@ -1,0 +1,1 @@
+Hello, Kuba, this is Terraform!
